@@ -21,7 +21,7 @@ export default function Footer() {
             href={PERSONAL_WEBSITE_URL}
             className="hover:text-goldDesert transition-colors duration-300"
           >
-            sarabaqla.dev
+            dipeshu.com
           </a>
         </span>
         <div className="flex mt-2 space-x-6">

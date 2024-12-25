@@ -35,7 +35,7 @@ export default function NavBar() {
               alt="Sara Dev Logo"
             />
             <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-              sarabaqla.dev
+              dipeshu.com
             </span>
           </Link>
           <div className="flex items-center lg:order-2">
