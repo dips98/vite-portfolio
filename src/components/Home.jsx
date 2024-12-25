@@ -8,7 +8,7 @@ import {
   FaBlog,
 } from "react-icons/fa";
 import { SiPerplexity } from "react-icons/si";
-import landingImg from "/logo.svg";
+import landingImg from "/banner.gif";
 import {
   GITHUB_URL,
   LINKEDIN_URL,

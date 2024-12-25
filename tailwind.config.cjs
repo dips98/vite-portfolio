@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        darkDesert: '#764b36',
-        lightDesert:'#efe7dd',
+        darkDesert: 'black',
+        lightDesert:'#5795cc',
         goldDesert: '#C88A36',
         tealDesert: '#0D9B8C',
       },
