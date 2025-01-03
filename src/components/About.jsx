@@ -54,13 +54,13 @@ const About = () => {
       />
       <animated.div style={slideUp}>
         <h1 className="text-4xl font-bold text-darkDesert mb-4 text-center px-8">
-          Dipesh Updahyay
+          Dipesh Upadhyay
         </h1>
         <p className="text-lg text-darkDesert mb-4 text-center px-8">
           As a software engineer, code-wielding full-stack web developer, I create user-friendly apps with serious impact. My systematic problem-solving skills were fine-tuned having 3 plus years of experience. I'm resourceful and always staying up to date with the latest trends.
         </p>
         <p className="text-lg text-darkDesert mb-4 text-center px-8">
-          But wait, there's more! I'm not just a coding maestro; I also good at sales, understanding the requirement of a product ,pitching to the customer, taking feedback and create more viable product or propose the idea, I've performed with various orgainization across brodcasting telecom solution like Tatasky Airtel in vijay sales chain stores.
+          But wait, there's more! I'm not just a coding maestro. I also good at sales, understanding the requirement of a product ,pitching to the customer, taking feedback and create more viable product or propose the idea, I've performed with various orgainization across brodcasting telecom solution like Tatasky Airtel in vijay sales chain stores.
         </p>
         <p className="text-lg text-darkDesert mb-4 text-center px-8">
           When I'm not jamming or coding, I'm an outdoor enthusiast and chess
